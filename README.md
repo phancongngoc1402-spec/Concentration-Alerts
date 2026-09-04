@@ -2,7 +2,7 @@
 
 This repository contains the analysis code and cleaned five-minute monitoring dataset used for the manuscript:
 
-> **Temporal Transferability of Concentration-Only Alerts for Mass-Ranked Extremes in High-Frequency Industrial Effluent Monitoring**
+> **Temporal Transferability of Concentration-Only Alerts for Pollutant-Mass Prioritization in High-Frequency Industrial Effluent Monitoring in Phu Tho Province, Vietnam**
 
 The analysis tests whether concentration-only alert thresholds calibrated in an earlier operating period retain their ability to retrieve later **mass-ranked** effluent extremes. The primary design is chronological: thresholds are developed using 2025 observations, locked, and evaluated without re-estimation in January-July 2026. This release is aligned with the revised manuscript and includes the added **target-mass-capture** endpoint and conditional uncertainty analysis for the fixed historical P99 target.
 
